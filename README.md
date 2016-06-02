@@ -49,10 +49,6 @@ This is your custom css file.
 
 This is your custom js file.
 
-### .pairs
-
-This is a .pairs file.  You can fill it in with your info, then save it to your github.  Then at least half the file will be written every day.  There are 108 pair classes in a full Epicodus curriculum so this will save you almost an hour of your life.   
-
 ### README.md
 
 You're looking at it.
